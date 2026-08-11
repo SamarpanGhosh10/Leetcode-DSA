@@ -1,15 +1,10 @@
 class Solution(object):
     def largestOddNumber(self, num):
-        result=""
-        count=""
-        for i in num:
-            if int(i)%2!=0:
-                count+=i
-                result+=count
-                count=""
-            else:
-                count+=i
-        return result
-
+        n=len(num)
+        for i in range(n-1,-1,-1):
+            if int(num[i])%2!=0:
+                return num[0:i+1]
+        return ""
+            
             
             
