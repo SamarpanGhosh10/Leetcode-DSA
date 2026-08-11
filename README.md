@@ -1,5 +1,41 @@
-#Leetcode-DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode DSA — Python
+
+This repository contains my solutions to Data Structures and Algorithms problems that I solve while learning DSA with Python.
+
+I am currently building my problem-solving skills step by step, starting with fundamental topics and gradually moving toward advanced data structures and algorithms.
+
+## Topics Covered
+
+* Arrays
+* Binary Search
+* Strings
+* Hashing
+* Two Pointers
+* Sorting
+* Stack
+* Linked List
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+
+## Language
+
+* Python
+
+## Goals
+
+* Build strong problem-solving fundamentals
+* Understand common DSA patterns
+* Improve time and space complexity analysis
+* Prepare for technical interviews and internships
+
+## Progress
+
+This repository is actively updated as I learn new DSA topics and solve new problems.
+
+> Solutions are written for learning and practice. The focus is on understanding the approach rather than simply collecting solved problems.
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
