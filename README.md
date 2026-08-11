@@ -7,17 +7,10 @@ I am currently building my problem-solving skills step by step, starting with fu
 ## Topics Covered
 
 * Arrays
+* HashTable
 * Binary Search
 * Strings
-* Hashing
-* Two Pointers
-* Sorting
-* Stack
-* Linked List
-* Recursion
-* Trees
-* Graphs
-* Dynamic Programming
+
 
 ## Language
 
