@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
