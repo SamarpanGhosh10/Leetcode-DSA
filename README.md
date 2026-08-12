@@ -36,6 +36,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
@@ -67,6 +68,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -82,4 +84,8 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
