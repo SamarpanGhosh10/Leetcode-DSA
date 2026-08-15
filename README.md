@@ -45,6 +45,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0001-two-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -72,6 +74,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
