@@ -44,6 +44,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -51,6 +52,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -73,6 +75,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
