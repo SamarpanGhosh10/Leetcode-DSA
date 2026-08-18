@@ -6,24 +6,19 @@
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         n=0
-        c=0
-       
+        
         temp=head
-        while temp !=None:
+
+        while temp!=None:
             n+=1
             temp=temp.next
+        
         temp=head
-        num=n//2
-        while temp!=None:
-            if c>=num:
-                return temp
-                temp=temp.next
-                c+=1
-            else:
-                temp=temp.next
-                c+=1
-        return result
-
+        
+        for _ in range(0,n//2):
+            temp=temp.next
+        
+        return temp
 
 
 
