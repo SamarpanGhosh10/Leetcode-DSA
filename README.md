@@ -123,5 +123,10 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
