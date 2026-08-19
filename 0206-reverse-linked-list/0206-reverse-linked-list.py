@@ -17,8 +17,8 @@ class Solution:
             temp.val=e
             temp=temp.next
         
-        temp=head
+        
 
-        return temp
+        return head
 
         
