@@ -1,20 +1,17 @@
-class Solution(object):
-    def maxProduct(self, n):
-        first=0
-        second=0
-        while n>0:
-            x=n%10
-            if x>first:
-                second=first
-                first=x
-            elif x>second:
-                second=x
-            n=n//10
-        return first*second
-        
-
-        
-       
-
+class Solution:
+    def maxProduct(self, n: int) -> int:
+        largest=float("-inf")
+        s_largest=float("-inf")
+        nums=n
+        while nums>0:
+            ld=nums%10
+            if ld>=largest:
+                s_largest=largest
+                largest=ld
+                
+            elif ld>s_largest and ld<largest:
+                s_largest=ld
+            nums=nums//10
+        return largest*s_largest
 
         
