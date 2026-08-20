@@ -9,10 +9,10 @@ class Solution:
         stack=set()
         temp=head
         while temp!=None:
-            stack.add(temp)
-            temp=temp.next
             if temp in stack:
                 return True
+            stack.add(temp)
+            temp=temp.next
         return False
 
         
