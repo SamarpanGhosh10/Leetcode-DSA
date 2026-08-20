@@ -9,9 +9,9 @@ class Solution:
         stack=[]
         temp=head
         while temp!=None:
-            stack.append(temp)
+            stack.append(id(temp))
             temp=temp.next
-            if temp in stack:
+            if id(temp) in stack:
                 return True
         return False
 
