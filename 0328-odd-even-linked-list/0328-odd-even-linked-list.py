@@ -5,34 +5,18 @@
 #         self.next = next
 class Solution:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        
-        temp=head
-        if temp==None:
+        if head is None or head.next is None:
             return head
-        result=[]
-        while temp is not None:
-            result.append(temp.val)
-            if temp.next==None:
-                break
-            else:
-                temp=temp.next.next
-           
-        
-        temp=head.next
-        while temp is not None and temp.next is not None:
-            result.append(temp.val)
-            temp=temp.next.next
-        
+        odd=head
+        even=head.next
+        even_head=even
 
-        n=len(result)
-        temp=head
-        for i in range(n):
-            temp.val=result[i]
-            temp=temp.next
-        
+        while even is not None and even.next is not None:
+            odd.next=odd.next.next
+            odd=odd.next
+            even.next=even.next.next
+            even=even.next
+        odd.next=even_head
 
         return head
-        
-
-
         
