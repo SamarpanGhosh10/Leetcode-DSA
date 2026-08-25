@@ -11,8 +11,7 @@ class Solution:
             c+=1
             temp=temp.next
         front=c-n
-        if c==1 and n==1:
-            return None
+       
         if c==n:
             temp=head
             head=temp.next
