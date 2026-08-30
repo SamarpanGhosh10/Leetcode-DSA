@@ -10,7 +10,7 @@ I am currently building my problem-solving skills step by step, starting with fu
 * HashTable
 * Binary Search
 * Strings
-* Linked Lists ( Singly Linked List )
+* Linked Lists ( Singly Linked List & Doubly Linked List)
 
 
 ## Language
