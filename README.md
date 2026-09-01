@@ -144,4 +144,8 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
