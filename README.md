@@ -11,7 +11,7 @@ I am currently building my problem-solving skills step by step, starting with fu
 * Binary Search
 * Strings
 * Linked Lists ( Singly Linked List & Doubly Linked List)
-
+* Bit Manipulation
 
 ## Language
 
