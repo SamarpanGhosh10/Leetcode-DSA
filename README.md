@@ -39,6 +39,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0001-two-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
@@ -148,6 +149,11 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
