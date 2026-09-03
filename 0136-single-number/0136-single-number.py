@@ -1,12 +1,8 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        hash_map={}
+        c=0
         for i in nums:
-            if i not in hash_map:
-                hash_map[i]=1
-            else:
-                hash_map[i]+=1
-        for i in hash_map:
-            if hash_map[i]==1:
-                return i
+            c=c^i
+        return c
+
         
