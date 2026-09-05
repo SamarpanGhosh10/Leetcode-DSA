@@ -1,17 +1,15 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         result=[]
-        n=len(nums)
-        total_subs=1<<n
-        for num in range(0,total_subs):
-            lst=[]
-            for i in range(0,n):
-                if num&(1<<i)!=0:
-                    lst.append(nums[i])
-            result.append(lst)
+        def func(ind,subset):
+            if ind>=len(nums):
+                result.append(subset.copy())
+                return
+            subset.append(nums[ind])
+            func(ind+1,subset)
+            subset.pop()
+            func(ind+1,subset)
+        func(0,[])
         return result
-
-
-
 
         
