@@ -9,9 +9,10 @@ class Solution:
         subset.append(candidates[index])
         Sum=total+candidates[index]
         self.solve(index,Sum,subset,candidates,target,result)
+        Sum=total
         subset.pop()
         
-        self.solve(index+1,total,subset,candidates,target,result)
+        self.solve(index+1,Sum,subset,candidates,target,result)
         
         return result
 
