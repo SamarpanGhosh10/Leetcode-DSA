@@ -39,6 +39,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0001-two-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -158,6 +159,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
