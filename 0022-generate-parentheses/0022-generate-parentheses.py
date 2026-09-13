@@ -6,9 +6,8 @@ class Solution:
             return
         if total>len(brackets)//2:
             return
-        if total<0:
+        elif total<0:
             return
-        
         brackets[index]="("
         Sum=total+1
         self.solve(index+1,Sum,brackets,result)
@@ -16,8 +15,10 @@ class Solution:
         Sum=total-1
         self.solve(index+1,Sum,brackets,result)
         return result
+
     def generateParenthesis(self, n: int) -> List[str]:
         brackets=[""]*(2*n)
-
         return self.solve(0,0,brackets,[])
+
+
         
