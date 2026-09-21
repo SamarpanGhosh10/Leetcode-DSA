@@ -44,6 +44,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0216-combination-sum-iii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0039-combination-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
