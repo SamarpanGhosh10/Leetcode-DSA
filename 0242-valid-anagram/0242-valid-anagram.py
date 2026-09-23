@@ -1,12 +1,21 @@
-class Solution(object):
-    def isAnagram(self, s, t):
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        dict1={}
         if len(s)!=len(t):
             return False
+        for i in s:
+            if i not in dict1:
+                dict1[i]=1
+            else:
+                dict1[i]+=1
         
-        sort_s=sorted(s)
-        sort_t=sorted(t)
+        for j in t:
+            if j not in dict1:
+                return False
+            if t.count(j)==dict1[j]:
+                continue
+            else:
+                return False
+        return True
 
-        if sort_s==sort_t:
-            return True
-        else:
-            return False            
+        
