@@ -45,6 +45,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0136-single-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0141-linked-list-cycle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Math
@@ -82,6 +84,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
