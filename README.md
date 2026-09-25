@@ -66,6 +66,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0009-palindrome-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -100,6 +101,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -181,4 +183,8 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
