@@ -67,6 +67,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0009-palindrome-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -188,9 +189,14 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0051-n-queens) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
