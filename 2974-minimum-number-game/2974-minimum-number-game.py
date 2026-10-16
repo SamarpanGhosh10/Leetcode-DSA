@@ -1,14 +1,9 @@
 class Solution:
     def numberGame(self, nums: List[int]) -> List[int]:
+        nums.sort()
         arr=[]
-        
-        while nums!=[]:
-            s=[]
-            s.append(min(nums))
-            nums.remove(min(nums))
-            s.append(min(nums))
-            nums.remove(min(nums))
-            arr.extend(s[::-1])
+        for i in range(0,len(nums),2):
+            arr.extend([nums[i+1],nums[i]])
         return arr
 
 
