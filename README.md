@@ -49,6 +49,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
+| [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -138,6 +140,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -194,6 +197,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0258-add-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 ## Algorithm X
 |  |
 | ------- |
