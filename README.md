@@ -64,6 +64,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0796-rotate-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
