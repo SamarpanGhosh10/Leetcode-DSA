@@ -49,6 +49,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -90,6 +91,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0142-linked-list-cycle-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
