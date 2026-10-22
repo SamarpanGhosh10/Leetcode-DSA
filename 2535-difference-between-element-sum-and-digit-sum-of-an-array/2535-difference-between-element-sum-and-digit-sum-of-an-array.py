@@ -3,12 +3,12 @@ class Solution:
         element_sum=0
         digit_sum=0
         for i in nums:
-            n=i
+            
             element_sum+=i
-            while n>0:
-                ld=n%10
+            while i>0:
+                ld=i%10
                 digit_sum+=ld
-                n=n//10
+                i=i//10
         return abs(element_sum-digit_sum)
 
         
