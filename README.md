@@ -39,6 +39,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0001-two-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0051-n-queens) |
@@ -91,6 +92,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0015-3sum](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
