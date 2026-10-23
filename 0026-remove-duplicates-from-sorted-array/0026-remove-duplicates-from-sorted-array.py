@@ -1,5 +1,5 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
+class Solution:
+    def removeDuplicates(self, nums: list[int]) -> int:
         n=len(nums)
         if n==1:
             return 1
@@ -13,6 +13,5 @@ class Solution(object):
         return i+1
 
 
-        
         
         
