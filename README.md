@@ -77,6 +77,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0013-roman-to-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [1486-xor-operation-in-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -187,6 +188,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0078-subsets](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
