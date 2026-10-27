@@ -130,6 +130,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |
