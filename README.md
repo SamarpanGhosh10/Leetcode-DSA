@@ -55,6 +55,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -229,4 +232,8 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
