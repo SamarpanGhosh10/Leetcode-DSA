@@ -50,6 +50,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -102,6 +103,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0142-linked-list-cycle-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
