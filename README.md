@@ -53,6 +53,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0977-squares-of-a-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -84,6 +85,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
