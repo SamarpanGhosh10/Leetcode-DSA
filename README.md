@@ -49,6 +49,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | [0216-combination-sum-iii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0682-baseball-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1550-three-consecutive-odds) |
@@ -148,6 +149,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -230,6 +232,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 | ------- |
 | [0258-add-digits](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 ## Algorithm X
 |  |
