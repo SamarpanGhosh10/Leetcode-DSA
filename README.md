@@ -153,6 +153,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -251,6 +252,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Polygons
 |  |
@@ -264,4 +266,5 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
