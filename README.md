@@ -152,6 +152,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -249,6 +250,7 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Polygons
 |  |
@@ -258,4 +260,8 @@ This repository is actively updated as I learn new DSA topics and solve new prob
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SamarpanGhosh10/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
